@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\ghasa\source\repos\KutuphaneOtomasyonu\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Forms\frm_AdminAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frm_BookAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frm_BookList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frm_BookType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frm_Chart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frm_GeneralMemberList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frm_ImageBookList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frm_MailSendAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frm_MemberAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frm_MemberBookList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frm_MemberList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frm_MemberUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frm_OrderFiche.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frm_Publisher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frm_ReturnMemberBookList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frm_Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frm_Sql.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
