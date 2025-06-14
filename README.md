@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/dogukankosan/LibraryApp/raw/main/icons8_books.ico" alt="LibraryApp Icon" width="120" />
-</p>
+
+![Uploading indir (1).jpg…]()
 
 # 📚 LibraryApp
 
